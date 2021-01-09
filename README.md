@@ -1,2 +1,2 @@
-# web-page-resource
-this is the simple web page coade
+# Pesrsonal assistance
+here you can give command to jarvis and it responce you like google assistance
